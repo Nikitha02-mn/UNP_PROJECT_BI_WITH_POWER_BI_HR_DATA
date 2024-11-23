@@ -1,5 +1,6 @@
 # UNP_PROJECT_BI_WITH_POWER_BI_HR_DATA
 Completed this project as a part of my bi with power bi course with United Network of Professionals (UNP)
+
 Key highlights:
 1. This Power BI project focuses on enhancing organizational performance and employee satisfaction by leveraging data-driven insights.
 2. The dashboard will visualize key metrics and trends across various HR and organizational development areas.
